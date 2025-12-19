@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "813372f6-c500-4335-be9e-62fd7784bf13",
+			"database_name": "dutchdieselcoaching"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
